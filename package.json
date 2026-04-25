@@ -1,0 +1,25 @@
+{
+  "name": "jupiter-friction-radar",
+  "version": "1.0.0",
+  "description": "A small Jupiter Developer Platform experiment built for the Superteam Earn / Jupiter \"Not Your Regular Bounty\" track.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernie-AI-Op-Streams/jupiter-friction-radar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ernie-AI-Op-Streams/jupiter-friction-radar/issues"
+  },
+  "homepage": "https://github.com/Ernie-AI-Op-Streams/jupiter-friction-radar#readme",
+  "bin": {
+    "jupiter-friction-radar": "./src/cli.js"
+  }
+}
